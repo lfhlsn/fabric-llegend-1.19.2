@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "llegend:ancient_iron_sword"
+    },
+    "D": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "X": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "XDX",
+    "DLD",
+    "XDX"
+  ],
+  "result": {
+    "item": "llegend:wither_sword"
+  }
+}

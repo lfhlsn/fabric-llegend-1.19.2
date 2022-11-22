@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "llegend:end_sword"
+    },
+    "X": {
+      "item": "minecraft:ender_eye"
+    },
+    "D": {
+      "item": "minecraft:dragon_head"
+    },
+    "E": {
+      "item": "minecraft:dragon_egg"
+    }
+  },
+  "pattern": [
+    "XEX",
+    "DLD",
+    "XDX"
+  ],
+  "result": {
+    "item": "llegend:dragon_sword"
+  }
+}

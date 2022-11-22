@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "llegend:ancient_bronze_sword"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:blue_ice"
+    },
+    "M": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "pattern": [
+    "DXD",
+    "MLM",
+    "DXD"
+  ],
+  "result": {
+    "item": "llegend:frozen_sword"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "llegend:item/ancient_iron_sword"
+  }
+}

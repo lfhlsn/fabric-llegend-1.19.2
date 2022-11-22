@@ -1,0 +1,17 @@
+{
+  "event.llegend.sword_skill.warning_1": "你需要等待",
+  "event.llegend.sword_skill.warning_2": "秒才能使用该技能",
+  "event.llegend.sword_skill.info": "获得了",
+  "key.category.llegend.sword_skill": "剑技能",
+  "key.llegend.sword_skill_1": "技能1",
+  "key.llegend.sword_skill_2": "技能2",
+  "key.llegend.sword_skill_3": "技能3",
+  "item.llegend.frozen_sword": "霜冻之剑",
+  "item.llegend.unknown_sword": "未知之剑",
+  "item.llegend.dragon_sword": "巨龙之剑",
+  "item.llegend.ancient_iron_sword": "远古铁剑",
+  "item.llegend.ancient_bronze_sword": "远古青铜剑",
+  "item.llegend.end_sword": "末地之剑",
+  "item.llegend.creeper_sword": "爬行者之剑",
+  "item.llegend.wither_sword": "凋零之剑"
+}

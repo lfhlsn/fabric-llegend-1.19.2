@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "llegend:ancient_bronze_sword"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:emerald"
+    },
+    "M": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "XID",
+    "MLM",
+    "DIX"
+  ],
+  "result": {
+    "item": "llegend:unknown_sword"
+  }
+}

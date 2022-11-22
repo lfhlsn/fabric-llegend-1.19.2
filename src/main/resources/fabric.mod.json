@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "llegend",
+  "version": "${version}",
+
+  "name": "Sword in the Legend",
+  "description": "Added some powerful swords to the game.",
+  "authors": [
+    "lfhlsn"
+  ],
+  "contact": {
+    "homepage": "https://lfhlsn.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.lfhlsn.llegend.ModInitializer"
+    ],
+    "client": [
+      "net.lfhlsn.llegend.ModClientInitializer"
+    ]
+  },
+  "mixins": [
+    "llegend.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

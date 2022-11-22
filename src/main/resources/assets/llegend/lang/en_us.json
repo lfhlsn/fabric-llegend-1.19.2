@@ -1,0 +1,17 @@
+{
+  "event.llegend.sword_skill.warning_1": "You need to wait ",
+  "event.llegend.sword_skill.warning_2": " seconds to use the skill again",
+  "event.llegend.sword_skill.info": "Gained ",
+  "key.category.llegend.sword_skill": "Sword Skill",
+  "key.llegend.sword_skill_1": "Sword Skill 1",
+  "key.llegend.sword_skill_2": "Sword Skill 2",
+  "key.llegend.sword_skill_3": "Sword Skill 3",
+  "item.llegend.frozen_sword": "Frozen Sword",
+  "item.llegend.unknown_sword": "Unknown Sword",
+  "item.llegend.dragon_sword": "Dragon Sword",
+  "item.llegend.ancient_iron_sword": "Ancient Iron Sword",
+  "item.llegend.ancient_bronze_sword": "Ancient Bronze Sword",
+  "item.llegend.end_sword": "End Sword",
+  "item.llegend.creeper_sword": "Creeper Sword",
+  "item.llegend.wither_sword": "Wither Sword"
+}

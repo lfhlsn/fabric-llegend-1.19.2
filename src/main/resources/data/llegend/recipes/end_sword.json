@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "llegend:ancient_iron_sword"
+    },
+    "D": {
+      "item": "minecraft:end_stone"
+    },
+    "X": {
+      "item": "minecraft:ender_pearl"
+    },
+    "M": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "pattern": [
+    "MDB",
+    "XLX",
+    "BDM"
+  ],
+  "result": {
+    "item": "llegend:end_sword"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "llegend:ancient_iron_sword"
+    },
+    "D": {
+      "item": "minecraft:gunpowder"
+    },
+    "X": {
+      "item": "minecraft:creeper_head"
+    },
+    "M": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "DXD",
+    "MLM",
+    "DMD"
+  ],
+  "result": {
+    "item": "llegend:creeper_sword"
+  }
+}
