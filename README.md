@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Sword in the Legend
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod adds some powerful swords to the game, each one of them has powerful unique skills. You can use 'V', 'B', 'N' on the keyboard to release them. And the number of skills your sword have is determined by its rarity.
